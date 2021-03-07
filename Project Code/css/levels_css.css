@@ -1,0 +1,20 @@
+.templatemo_logo { text-align: center; margin-bottom: 40px; overflow: hidden; }
+
+body { background-image: url("../images/bg-homepage.jpg");}
+
+
+
+
+.main-content { margin-top: 80px; }
+
+.content { background-color: rgba(0, 0, 0, 0.7); padding: 20px 30px;}
+body { font: 14px/23px 'Dosis', Arial, sans-serif; -webkit-font-smoothing: antialiased; word-wrap: break-word; color: #dddddd; background-color: #222222; }
+
+
+.page-header { padding: 20px 30px; margin: 0; border-bottom: 1px solid #a71e2b; }
+
+.page-title { font-size: 20px; text-transform: uppercase; margin: 0; }
+
+.content-inner { padding: 30px; }
+
+.main-content { position: relative; z-index: 9999; }
